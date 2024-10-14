@@ -11,8 +11,8 @@ This project analyzes the FoodHub order dataset to extract insights about custom
 
 ## Files
 
-- `FoodHub_Data_Analysis.ipynb`: Jupyter Notebook containing the data analysis.
-- `FoodHub_Data_Analysis.html`: HTML version of the notebook for easy viewing.
+- `RobertLupo_FDS_Project_LearnerNotebook_FullCode.ipynb`: Jupyter Notebook containing the data analysis.
+- `RobertLupo_FDS_Project_LearnerNotebook_FullCode.html`: HTML version of the notebook for easy viewing.
 - `foodhub_order.csv`: Dataset used in the analysis.
 
 ## Analysis Highlights
