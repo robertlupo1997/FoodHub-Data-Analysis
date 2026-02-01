@@ -38,6 +38,12 @@ This project is part of the **MIT-IDSS Data Science and Machine Learning Program
 - Recommendations to improve business strategies.
 
 ---
+## Honest Assessment
+
+This is coursework, not original research. I'm including it because it demonstrates fundamental data analysis skills, but my more recent projects (see [KKBOX Churn Prediction](https://github.com/robertlupo1997/KKBOX-Music-Churn-Prediction)) better represent my current capabilities.
+
+---
+
 
 ## How to View the Notebook
 1. **Option 1:** View the HTML file directly in your browser by clicking on `RobertLupo_FDS_Project_LearnerNotebook_FullCode.html`.  
